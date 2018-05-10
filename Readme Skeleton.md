@@ -20,6 +20,21 @@ Refer to https://github.com/ScaleIT-Org/sapp-i40-app-skeleton/blob/master/README
 ### Standolone
 ### Docker
 
+## Screenshots
+| Mobile        | Desktop       |
+| ------------- | ------------- |
+| <img width="50%" src="https://cdn.pixabay.com/photo/2017/01/13/01/22/mobile-1976104_960_720.png"/> | <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Desktop_font_awesome.svg/512px-Desktop_font_awesome.svg.png"/> |
+
+|More Screenshots|
+| ------------- |
+| <img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/2000px-Hamburger_icon.svg.png"/> |
+
+## Requirements
+
+## Features
+
+## Known Issues
+
 ## Troubleshooting
 
 What should be done in case of problem occurrence  
