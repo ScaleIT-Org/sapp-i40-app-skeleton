@@ -17,3 +17,9 @@ Refer to https://github.com/ScaleIT-Org/sapp-i40-app-skeleton/blob/master/README
 
 ## How to Use
 ...
+### Standolone
+### Docker
+
+## Troubleshooting
+
+What should be done in case of problem occurrence  
