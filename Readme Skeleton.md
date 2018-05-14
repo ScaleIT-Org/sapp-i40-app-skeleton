@@ -66,3 +66,7 @@ Wait until it sleeps and it will be easy to get it back.
 ```
 
 ## How to build
+
+## Configuration
+
+If your application needs some pre-configuration or mandatory set environment variables, they should describe here
