@@ -10,7 +10,9 @@ License Badge next to Title:
 ```
 Insert a short introduction (2-3 sentences):
 ```
-This skeleton is meant to prescribe a structure for each ScaleIt app's README. Headings and the visual structure should be exactly the same as in this document. This leads to consistency between the ScaleIT apps respectively repositories.
+This skeleton is meant to prescribe a structure for each ScaleIt app's README. 
+Headings and the visual structure should be exactly the same as in this document. 
+This leads to consistency between the ScaleIT apps respectively repositories.
 ```
 
 Refer to https://github.com/ScaleIT-Org/sapp-i40-app-skeleton/blob/master/README.md for a full example (TODO).
@@ -21,6 +23,13 @@ Refer to https://github.com/ScaleIT-Org/sapp-i40-app-skeleton/blob/master/README
 ### Docker
 
 ## Screenshots
+Images can be added via an `<img>` tag:
+```html
+<img width="50%" src="https://<my-image-source>"/>
+```
+You should insert one or more screenshots of your application. If you provide a mobile view, you should also provide screenshots accordingly.
+Example:
+
 | Mobile        | Desktop       |
 | ------------- | ------------- |
 | <img width="50%" src="https://cdn.pixabay.com/photo/2017/01/13/01/22/mobile-1976104_960_720.png"/> | <img width="50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Desktop_font_awesome.svg/512px-Desktop_font_awesome.svg.png"/> |
@@ -30,8 +39,20 @@ Refer to https://github.com/ScaleIT-Org/sapp-i40-app-skeleton/blob/master/README
 | <img width="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/2000px-Hamburger_icon.svg.png"/> |
 
 ## Requirements
+Only add this section if there are some special requirements in hardware or software and only if they are required to run the app at all. Those could be minimum RAM size or platform restrictions.
+Example:
+```
+Minimum number of CPUs: 2
+Platforms: Windows, Linux
+```
 
 ## Features
+Provide a small list of important features. 
+Example:
+
+* Customizable Dashboard
+* Support OAuth
+* Drag and drop items
 
 ## Known Issues
 
