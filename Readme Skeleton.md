@@ -16,8 +16,8 @@ This skeleton is meant to prescribe a structure for each ScaleIt app's README. H
 Refer to https://github.com/ScaleIT-Org/sapp-i40-app-skeleton/blob/master/README.md for a full example (TODO).
 
 ## How to Use
-...
-### Standolone
+
+### Standalone
 ### Docker
 
 ## Screenshots
@@ -37,4 +37,11 @@ Refer to https://github.com/ScaleIT-Org/sapp-i40-app-skeleton/blob/master/README
 
 ## Troubleshooting
 
-What should be done in case of problem occurrence  
+Provide solutions to common problems in a Q&A format.
+```
+My Laptop got wings and flew out the window. How can I catch it?
+
+Wait until it sleeps and it will be easy to get it back.
+```
+
+## How to build
