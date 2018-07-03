@@ -55,6 +55,8 @@ Example:
 * Drag and drop items
 
 ## Known Issues
+  
+  e.g. Proxy currently not working
 
 ## Troubleshooting
 
@@ -67,6 +69,17 @@ Wait until it sleeps and it will be easy to get it back.
 
 ## How to build
 
+### Examples
+```
+  docker-compose build 
+  docker-compose up -d
+```
+
 ## Configuration
 
 If your application needs some pre-configuration or mandatory set environment variables, they should describe here
+
+## Tests
+  
+  IsRunningTest: Tests if application is running
+  TestXYZ: Tests feature XYZ 
