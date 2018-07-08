@@ -83,3 +83,7 @@ If your application needs some pre-configuration or mandatory set environment va
   
   IsRunningTest: Tests if application is running
   TestXYZ: Tests feature XYZ 
+
+## Notes
+
+Add additional notes here
