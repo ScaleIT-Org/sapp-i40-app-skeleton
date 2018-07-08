@@ -81,8 +81,8 @@ If your application needs some pre-configuration or mandatory set environment va
 
 ## Tests
   
-  IsRunningTest: Tests if application is running
-  TestXYZ: Tests feature XYZ 
+  - IsRunningTest: Tests if application is running
+  - TestXYZ: Tests feature XYZ 
 
 ## Notes
 
